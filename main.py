@@ -10,4 +10,8 @@ Not sure if it's serious.
 pipeline = LLMQueryProcessingPipeline()
 result = pipeline.run(query)
 
-print(result)
+print("result.keys(): ", result.keys())
+print("Query: ", query)
+for key in result.keys():
+    print(f"\n--- {key} ---")
+    print(result[key])
