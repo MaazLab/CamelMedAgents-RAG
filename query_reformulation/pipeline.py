@@ -3,7 +3,7 @@
 from query_reformulation.intent_separator import IntentSeparator
 from query_reformulation.symptom_extractor import SymptomAttributeExtractor
 from query_reformulation.structured_builder import StructuredRepresentationBuilder
-
+from query_reformulation.query_generator import QueryGenerator
 
 class LLMQueryProcessingPipeline:
 
@@ -11,6 +11,7 @@ class LLMQueryProcessingPipeline:
         self.intent_separator = IntentSeparator()
         self.extractor = SymptomAttributeExtractor()
         self.builder = StructuredRepresentationBuilder()
+        self.generator = QueryGenerator()
 
     def run(self, raw_query: str):
 
@@ -25,8 +26,11 @@ class LLMQueryProcessingPipeline:
             extraction_output=extraction_output
         )
 
+        queries = self.generator.generate(structured_output)
+
         return {
             "intent_separation": intent_output.model_dump(),
             "symptom_extraction": extraction_output.model_dump(),
-            "structured_representation": structured_output.model_dump()
+            "structured_representation": structured_output.model_dump(),
+            "retrieval_queries": queries
         }
