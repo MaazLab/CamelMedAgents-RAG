@@ -14,14 +14,17 @@ class IntentSeparator:
         self.system_prompt = """
 You are a medical text preprocessing module.
 
-Your task:
-- Remove conversational filler.
-- Preserve only clinically relevant content.
-- Detect user uncertainty or concern.
-- Do NOT infer diseases.
-- Do NOT add new information.
-- Do NOT interpret beyond explicit text.
+STRICT OUTPUT RULES:
+- cleaned_text must be a string.
+- uncertainty must be a boolean (true or false only).
+- emotional_context must be a short string or null.
 
+uncertainty = true ONLY if the user explicitly expresses doubt,
+concern, fear, or uncertainty.
+Otherwise return false.
+
+Do NOT return text inside the uncertainty field.
+Do NOT explain anything.
 Return strictly valid JSON.
 """
 
