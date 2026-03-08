@@ -27,13 +27,25 @@ class StructuredQuery(BaseModel):
     label: str
     category: str
 
-    symptoms: List[Symptom]
-    duration: Optional[Duration]
-    severity_overall: Optional[str]
-    anatomical_locations: List[str]
-    demographics: Optional[Demographics]
-    intent: Optional[str]  # diagnosis | treatment | reassurance | emergency | prognosis
+    symptoms: List[Symptom] = Field(..., min_items=1)
+
+    duration: Optional[Duration] = None
+    severity_overall: Optional[str] = None
+
+    anatomical_locations: List[str] = Field(default_factory=list)
+
+    demographics: Optional[Demographics] = None
+
+    intent: Optional[str] = None  # diagnosis | treatment | reassurance | emergency | prognosis
+
     red_flag: bool = False
-    comorbidities: List[str] = []
-    Triggers: list[str] = []
+
+    comorbidities: List[str] = Field(default_factory=list)
+
+    triggers: List[str] = Field(default_factory=list)
+    
+    frequency: Optional[str] = None 
+
     query_complexity_score: int
+    
+
