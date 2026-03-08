@@ -4,7 +4,6 @@ import logging
 from llm.structured_extractor import StructuredExtractor
 from processors.postprocessing import apply_red_flag_guard
 
-
 logger = logging.getLogger(__name__)
 
 
@@ -28,7 +27,7 @@ class ExtractionPipeline:
 
         # Step 3: Postprocessing
         logger.info("   → Executing Postprocessing")
-        structured = apply_red_flag_guard(structured)
+        structured = apply_red_flag_guard(structured)        
 
         logger.info("✔ Finished processing query")
 
