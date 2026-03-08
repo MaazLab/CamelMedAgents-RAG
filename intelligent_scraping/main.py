@@ -4,6 +4,8 @@ import pandas as pd
 import json
 import logging
 from extraction_pipeline import ExtractionPipeline
+from medical_schema import StructuredQuery
+from pydantic import ValidationError
 
 
 # Configure logging
@@ -43,12 +45,18 @@ def main():
                     category=row["Category"]
                 )
 
+                # Validate final structure
+                validated = StructuredQuery(**structured)
+                
                 # Save immediately (JSON Lines format)
-                f.write(json.dumps(structured, ensure_ascii=False) + "\n")
+                f.write(json.dumps(validated.model_dump(), ensure_ascii=False) + "\n")
                 f.flush()
 
                 logger.info("💾 Saved result successfully")
-
+                
+            except ValidationError as e:
+                logger.error(f"❌ Schema validation failed for query {idx + 1}: {e}")
+            
             except Exception as e:
                 logger.error(f"❌ Failed processing query {idx + 1}: {str(e)}")
 
