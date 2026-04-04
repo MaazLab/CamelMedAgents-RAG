@@ -7,13 +7,25 @@ class Symptom(BaseModel):
     normalized_name: Optional[str] = None
     anatomical_location: Optional[str] = None
     severity: Optional[str] = None
+    
+class TemporalSymptom(BaseModel):
+    symptom: str
+    duration_days: Optional[int] = None
+    onset_type: Optional[str] = None
 
 
-class Demographics(BaseModel):
+class PatientContext(BaseModel):
     age: Optional[int] = None
     age_group: Optional[str] = None
     gender: Optional[str] = None
     pregnancy_status: Optional[str] = None
+    comorbidities: List[str] = Field(default_factory=list)
+
+
+class ClinicalInterpretation(BaseModel):
+    intent: Optional[str] = None
+    red_flag: bool = False
+    red_flag_reasons: List[str] = Field(default_factory=list)
 
 
 class Duration(BaseModel):
@@ -30,22 +42,17 @@ class StructuredQuery(BaseModel):
     symptoms: List[Symptom] = Field(..., min_items=1)
 
     duration: Optional[Duration] = None
-    severity_overall: Optional[str] = None
-
-    anatomical_locations: List[str] = Field(default_factory=list)
-
-    demographics: Optional[Demographics] = None
-
-    intent: Optional[str] = None  # diagnosis | treatment | reassurance | emergency | prognosis
-
-    red_flag: bool = False
-
-    comorbidities: List[str] = Field(default_factory=list)
-
-    triggers: List[str] = Field(default_factory=list)
-    
     frequency: Optional[str] = None 
+    triggers: List[str] = Field(default_factory=list)
+    symptom_temporal_map: List[TemporalSymptom] = Field(default_factory=list)
 
-    query_complexity_score: int
+    patient_context: Optional[PatientContext] = None
+    clinical_interpretation: Optional[ClinicalInterpretation] = None
+
+    # severity_overall: Optional[str] = None
+
+    # anatomical_locations: List[str] = Field(default_factory=list)
+
+    # query_complexity_score: int
     
 
