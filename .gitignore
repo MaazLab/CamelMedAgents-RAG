@@ -4,8 +4,7 @@ __pycache__/
 *.pyd
 .env
 .github/
-scrapers/data/
+scrapers/data/**/chrome_profile/
 scrapers/qdrant_server/
-scrapers/logs/
 *.lock
 **/openspec/

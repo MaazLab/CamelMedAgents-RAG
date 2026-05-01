@@ -1,0 +1,2872 @@
+[
+  {
+    "id": 282,
+    "text": "Allergic disorders",
+    "name": "Allergic disorders",
+    "slug": "allergic-disorders",
+    "description": "",
+    "count": 391,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 283,
+    "text": "Anaemia",
+    "name": "Anaemia",
+    "slug": "anaemia",
+    "description": "",
+    "count": 482,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 284,
+    "text": "Anticoagulants",
+    "name": "Anticoagulants",
+    "slug": "anticoagulants",
+    "description": "",
+    "count": 202,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 285,
+    "text": "Autoimmune disorders",
+    "name": "Autoimmune disorders",
+    "slug": "autoimmune-disorders",
+    "description": "",
+    "count": 395,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 286,
+    "text": "Coagulation disorders",
+    "name": "Coagulation disorders",
+    "slug": "coagulation-disorders",
+    "description": "",
+    "count": 78,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 287,
+    "text": "Deep vein thrombosis",
+    "name": "Deep vein thrombosis",
+    "slug": "deep-vein-thrombosis",
+    "description": "",
+    "count": 191,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 288,
+    "text": "Haematological disorders",
+    "name": "Haematological disorders",
+    "slug": "haematological-disorders",
+    "description": "",
+    "count": 293,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 289,
+    "text": "Haemochromatosis",
+    "name": "Haemochromatosis",
+    "slug": "haemochromatosis",
+    "description": "",
+    "count": 639,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 290,
+    "text": "Henoch-Schonlein purpura",
+    "name": "Henoch-Schonlein purpura",
+    "slug": "henoch-schonlein-purpura",
+    "description": "",
+    "count": 221,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 291,
+    "text": "Pernicious anaemia",
+    "name": "Pernicious anaemia",
+    "slug": "pernicious-anaemia",
+    "description": "",
+    "count": 516,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 292,
+    "text": "Polycythaemia rubra vera",
+    "name": "Polycythaemia rubra vera",
+    "slug": "polycythaemia-rubra-vera",
+    "description": "",
+    "count": 369,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 293,
+    "text": "Raynauds phenomenon",
+    "name": "Raynauds phenomenon",
+    "slug": "raynauds-phenomenon",
+    "description": "",
+    "count": 86,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 294,
+    "text": "Spleen disorders and splenectomy",
+    "name": "Spleen disorders and splenectomy",
+    "slug": "spleen-disorders-and-splenectomy",
+    "description": "",
+    "count": 55,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 295,
+    "text": "Stroke and TIA",
+    "name": "Stroke and TIA",
+    "slug": "stroke-and-tia",
+    "description": "",
+    "count": 249,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 296,
+    "text": "Accidents and injuries",
+    "name": "Accidents and injuries",
+    "slug": "accidents-and-injuries",
+    "description": "",
+    "count": 1328,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 297,
+    "text": "Alendronic acid",
+    "name": "Alendronic acid",
+    "slug": "alendronic-acid",
+    "description": "",
+    "count": 96,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 298,
+    "text": "Ankle problems",
+    "name": "Ankle problems",
+    "slug": "ankle-problems",
+    "description": "",
+    "count": 2958,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 299,
+    "text": "Ankylosing spondylitis",
+    "name": "Ankylosing spondylitis",
+    "slug": "ankylosing-spondylitis",
+    "description": "",
+    "count": 437,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 300,
+    "text": "Arthritis",
+    "name": "Arthritis",
+    "slug": "arthritis",
+    "description": "",
+    "count": 361,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 301,
+    "text": "Arthroscopy",
+    "name": "Arthroscopy",
+    "slug": "arthroscopy",
+    "description": "",
+    "count": 169,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 302,
+    "text": "Azathioprine",
+    "name": "Azathioprine",
+    "slug": "azathioprine",
+    "description": "",
+    "count": 33,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 303,
+    "text": "Backache",
+    "name": "Backache",
+    "slug": "backache",
+    "description": "",
+    "count": 792,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 304,
+    "text": "Cauda equina syndrome",
+    "name": "Cauda equina syndrome",
+    "slug": "cauda-equina-syndrome",
+    "description": "",
+    "count": 134,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 305,
+    "text": "Cervical rib syndrome",
+    "name": "Cervical rib syndrome",
+    "slug": "cervical-rib-syndrome",
+    "description": "",
+    "count": 103,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 306,
+    "text": "Cervical spondylosis",
+    "name": "Cervical spondylosis",
+    "slug": "cervical-spondylosis",
+    "description": "",
+    "count": 461,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 307,
+    "text": "Complex regional pain syndrome",
+    "name": "Complex regional pain syndrome",
+    "slug": "complex-regional-pain-syndrome",
+    "description": "",
+    "count": 216,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 308,
+    "text": "Costochondritis and Tietzes syndrome",
+    "name": "Costochondritis and Tietzes syndrome",
+    "slug": "costochondritis-and-tietzes-syndrome",
+    "description": "",
+    "count": 517,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 309,
+    "text": "Cramps",
+    "name": "Cramps",
+    "slug": "cramps",
+    "description": "",
+    "count": 109,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 310,
+    "text": "Disc prolapse",
+    "name": "Disc prolapse",
+    "slug": "disc-prolapse",
+    "description": "",
+    "count": 597,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 311,
+    "text": "Elbow problems",
+    "name": "Elbow problems",
+    "slug": "elbow-problems",
+    "description": "",
+    "count": 118,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 312,
+    "text": "Fibromyalgia syndrome",
+    "name": "Fibromyalgia syndrome",
+    "slug": "fibromyalgia-syndrome",
+    "description": "",
+    "count": 2880,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 313,
+    "text": "Finger and hand problems",
+    "name": "Finger and hand problems",
+    "slug": "finger-and-hand-problems",
+    "description": "",
+    "count": 195,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 314,
+    "text": "Frozen shoulder",
+    "name": "Frozen shoulder",
+    "slug": "frozen-shoulder",
+    "description": "",
+    "count": 719,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 315,
+    "text": "Gout and pseudogout",
+    "name": "Gout and pseudogout",
+    "slug": "gout-and-pseudogout",
+    "description": "",
+    "count": 295,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 316,
+    "text": "Bunions",
+    "name": "Bunions",
+    "slug": "bunions",
+    "description": "",
+    "count": 1395,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 317,
+    "text": "Hip dysplasia and disorders",
+    "name": "Hip dysplasia and disorders",
+    "slug": "hip-dysplasia-and-disorders",
+    "description": "",
+    "count": 312,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 318,
+    "text": "Hip replacement",
+    "name": "Hip replacement",
+    "slug": "hip-replacement",
+    "description": "",
+    "count": 9940,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 319,
+    "text": "Knee problems",
+    "name": "Knee problems",
+    "slug": "knee-problems",
+    "description": "",
+    "count": 7034,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 320,
+    "text": "Lupus",
+    "name": "Lupus",
+    "slug": "lupus",
+    "description": "",
+    "count": 262,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 321,
+    "text": "Methotrexate",
+    "name": "Methotrexate",
+    "slug": "methotrexate",
+    "description": "",
+    "count": 242,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 322,
+    "text": "Muscle disorders",
+    "name": "Muscle disorders",
+    "slug": "muscle-disorders",
+    "description": "",
+    "count": 251,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 323,
+    "text": "Orthopaedic disorders",
+    "name": "Orthopaedic disorders",
+    "slug": "orthopaedic-disorders",
+    "description": "",
+    "count": 311,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 324,
+    "text": "Osteoarthritis",
+    "name": "Osteoarthritis",
+    "slug": "osteoarthritis",
+    "description": "",
+    "count": 696,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 325,
+    "text": "Osteomyelitis",
+    "name": "Osteomyelitis",
+    "slug": "osteomyelitis",
+    "description": "",
+    "count": 68,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 326,
+    "text": "Osteoporosis and osteopenia",
+    "name": "Osteoporosis and osteopenia",
+    "slug": "osteoporosis-and-osteopenia",
+    "description": "",
+    "count": 408,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 327,
+    "text": "Plantar fasciitis",
+    "name": "Plantar fasciitis",
+    "slug": "plantar-fasciitis",
+    "description": "",
+    "count": 390,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 328,
+    "text": "Polymyalgia rheumatica and GCA",
+    "name": "Polymyalgia rheumatica and GCA",
+    "slug": "polymyalgia-rheumatica-and-gca",
+    "description": "",
+    "count": 5974,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 329,
+    "text": "Reactive arthritis",
+    "name": "Reactive arthritis",
+    "slug": "reactive-arthritis",
+    "description": "",
+    "count": 89,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 330,
+    "text": "Rheumatoid arthritis",
+    "name": "Rheumatoid arthritis",
+    "slug": "rheumatoid-arthritis",
+    "description": "",
+    "count": 1618,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 331,
+    "text": "Scoliosis and kyphosis",
+    "name": "Scoliosis and kyphosis",
+    "slug": "scoliosis-and-kyphosis",
+    "description": "",
+    "count": 189,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 332,
+    "text": "Shoulder problems",
+    "name": "Shoulder problems",
+    "slug": "shoulder-problems",
+    "description": "",
+    "count": 756,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 333,
+    "text": "Sjogrens syndrome",
+    "name": "Sjogrens syndrome",
+    "slug": "sjogrens-syndrome",
+    "description": "",
+    "count": 617,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 334,
+    "text": "Tendon problems",
+    "name": "Tendon problems",
+    "slug": "tendon-problems",
+    "description": "",
+    "count": 545,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 335,
+    "text": "Alzheimers disease",
+    "name": "Alzheimers disease",
+    "slug": "alzheimers-disease",
+    "description": "",
+    "count": 59,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 336,
+    "text": "Autistic spectrum disorders",
+    "name": "Autistic spectrum disorders",
+    "slug": "autistic-spectrum-disorders",
+    "description": "",
+    "count": 107,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 337,
+    "text": "Benzodiazepines and Z drugs",
+    "name": "Benzodiazepines and Z drugs",
+    "slug": "benzodiazepines-and-z-drugs",
+    "description": "",
+    "count": 931,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 338,
+    "text": "Carpal tunnel",
+    "name": "Carpal tunnel",
+    "slug": "carpal-tunnel",
+    "description": "",
+    "count": 373,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 339,
+    "text": "Chiari malformation",
+    "name": "Chiari malformation",
+    "slug": "chiari-malformation",
+    "description": "",
+    "count": 484,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 340,
+    "text": "Chronic fatigue syndrome",
+    "name": "Chronic fatigue syndrome",
+    "slug": "chronic-fatigue-syndrome",
+    "description": "",
+    "count": 1857,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 341,
+    "text": "Citalopram",
+    "name": "Citalopram",
+    "slug": "citalopram",
+    "description": "",
+    "count": 6118,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 342,
+    "text": "Codeine and paracetamol",
+    "name": "Codeine and paracetamol",
+    "slug": "codeine-and-paracetamol",
+    "description": "",
+    "count": 274,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 343,
+    "text": "Dementia",
+    "name": "Dementia",
+    "slug": "dementia",
+    "description": "",
+    "count": 110,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 344,
+    "text": "Dihydrocodeine",
+    "name": "Dihydrocodeine",
+    "slug": "dihydrocodeine",
+    "description": "",
+    "count": 103,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 345,
+    "text": "Epilepsy and non-epileptic seizures",
+    "name": "Epilepsy and non-epileptic seizures",
+    "slug": "epilepsy-and-non-epileptic-seizures",
+    "description": "",
+    "count": 292,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 346,
+    "text": "Escitalopram",
+    "name": "Escitalopram",
+    "slug": "escitalopram",
+    "description": "",
+    "count": 582,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 347,
+    "text": "Fentanyl",
+    "name": "Fentanyl",
+    "slug": "fentanyl",
+    "description": "",
+    "count": 98,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 348,
+    "text": "Gabapentin",
+    "name": "Gabapentin",
+    "slug": "gabapentin",
+    "description": "",
+    "count": 517,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 349,
+    "text": "Headache",
+    "name": "Headache",
+    "slug": "headache",
+    "description": "",
+    "count": 980,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 350,
+    "text": "Hemifacial spasm",
+    "name": "Hemifacial spasm",
+    "slug": "hemifacial-spasm",
+    "description": "",
+    "count": 157,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 351,
+    "text": "Idiopathic intracranial hypertension",
+    "name": "Idiopathic intracranial hypertension",
+    "slug": "idiopathic-intracranial-hypertension",
+    "description": "",
+    "count": 143,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 352,
+    "text": "Migraine",
+    "name": "Migraine",
+    "slug": "migraine",
+    "description": "",
+    "count": 831,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 353,
+    "text": "mirtazapine",
+    "name": "mirtazapine",
+    "slug": "mirtazapine",
+    "description": "",
+    "count": 2988,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 354,
+    "text": "Movement disorders",
+    "name": "Movement disorders",
+    "slug": "movement-disorders",
+    "description": "",
+    "count": 210,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 355,
+    "text": "Multiple sclerosis",
+    "name": "Multiple sclerosis",
+    "slug": "multiple-sclerosis",
+    "description": "",
+    "count": 481,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 356,
+    "text": "Neurological disorders",
+    "name": "Neurological disorders",
+    "slug": "neurological-disorders",
+    "description": "",
+    "count": 1113,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 357,
+    "text": "Neuropathic pain",
+    "name": "Neuropathic pain",
+    "slug": "neuropathic-pain",
+    "description": "",
+    "count": 632,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 358,
+    "text": "Olanzapine",
+    "name": "Olanzapine",
+    "slug": "olanzapine",
+    "description": "",
+    "count": 182,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 359,
+    "text": "Opiates and opioids",
+    "name": "Opiates and opioids",
+    "slug": "opiates-and-opioids",
+    "description": "",
+    "count": 255,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 360,
+    "text": "Palsy - non cerebral",
+    "name": "Palsy - non cerebral",
+    "slug": "palsy-non-cerebral",
+    "description": "",
+    "count": 90,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 361,
+    "text": "Paroxetine hydrochloride",
+    "name": "Paroxetine hydrochloride",
+    "slug": "paroxetine-hydrochloride",
+    "description": "",
+    "count": 150,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 362,
+    "text": "Pituitary disorders",
+    "name": "Pituitary disorders",
+    "slug": "pituitary-disorders",
+    "description": "",
+    "count": 162,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 363,
+    "text": "Postherpetic neuralgia",
+    "name": "Postherpetic neuralgia",
+    "slug": "postherpetic-neuralgia",
+    "description": "",
+    "count": 221,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 364,
+    "text": "Post polio syndrome",
+    "name": "Post polio syndrome",
+    "slug": "post-polio-syndrome",
+    "description": "",
+    "count": 41,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 365,
+    "text": "Pregabalin",
+    "name": "Pregabalin",
+    "slug": "pregabalin",
+    "description": "",
+    "count": 250,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 366,
+    "text": "Quetiapine",
+    "name": "Quetiapine",
+    "slug": "quetiapine",
+    "description": "",
+    "count": 125,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 367,
+    "text": "Restless legs syndrome",
+    "name": "Restless legs syndrome",
+    "slug": "restless-legs-syndrome",
+    "description": "",
+    "count": 262,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 368,
+    "text": "Sciatica",
+    "name": "Sciatica",
+    "slug": "sciatica",
+    "description": "",
+    "count": 434,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 369,
+    "text": "Spinal problems",
+    "name": "Spinal problems",
+    "slug": "spinal-problems",
+    "description": "",
+    "count": 1051,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 370,
+    "text": "Topiramate",
+    "name": "Topiramate",
+    "slug": "topiramate",
+    "description": "",
+    "count": 71,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 371,
+    "text": "Tramadol",
+    "name": "Tramadol",
+    "slug": "tramadol",
+    "description": "",
+    "count": 267,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 372,
+    "text": "Trigeminal neuralgia",
+    "name": "Trigeminal neuralgia",
+    "slug": "trigeminal-neuralgia",
+    "description": "",
+    "count": 849,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 373,
+    "text": "Bowel cancer",
+    "name": "Bowel cancer",
+    "slug": "bowel-cancer",
+    "description": "",
+    "count": 433,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 374,
+    "text": "Breast cancer and screening",
+    "name": "Breast cancer and screening",
+    "slug": "breast-cancer-and-screening",
+    "description": "",
+    "count": 196,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 375,
+    "text": "Cancer",
+    "name": "Cancer",
+    "slug": "cancer",
+    "description": "",
+    "count": 911,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 376,
+    "text": "Oesophageal cancer",
+    "name": "Oesophageal cancer",
+    "slug": "oesophageal-cancer",
+    "description": "",
+    "count": 83,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 377,
+    "text": "Prostate cancer",
+    "name": "Prostate cancer",
+    "slug": "prostate-cancer",
+    "description": "",
+    "count": 592,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 378,
+    "text": "Asthma",
+    "name": "Asthma",
+    "slug": "asthma",
+    "description": "",
+    "count": 297,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 379,
+    "text": "Bronchiectasis",
+    "name": "Bronchiectasis",
+    "slug": "bronchiectasis",
+    "description": "",
+    "count": 662,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 380,
+    "text": "Chest pain",
+    "name": "Chest pain",
+    "slug": "chest-pain",
+    "description": "",
+    "count": 546,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 381,
+    "text": "Chronic obstructive pulmonary disease",
+    "name": "Chronic obstructive pulmonary disease",
+    "slug": "chronic-obstructive-pulmonary-disease",
+    "description": "",
+    "count": 1182,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 382,
+    "text": "Pneumothorax",
+    "name": "Pneumothorax",
+    "slug": "pneumothorax",
+    "description": "",
+    "count": 119,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 383,
+    "text": "Pulmonary embolism",
+    "name": "Pulmonary embolism",
+    "slug": "pulmonary-embolism",
+    "description": "",
+    "count": 467,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 384,
+    "text": "Pulmonary fibrosis",
+    "name": "Pulmonary fibrosis",
+    "slug": "pulmonary-fibrosis",
+    "description": "",
+    "count": 138,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 385,
+    "text": "Respiratory symptoms and disorders",
+    "name": "Respiratory symptoms and disorders",
+    "slug": "respiratory-symptoms-and-disorders",
+    "description": "",
+    "count": 722,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 386,
+    "text": "Sarcoidosis",
+    "name": "Sarcoidosis",
+    "slug": "sarcoidosis",
+    "description": "",
+    "count": 323,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 387,
+    "text": "Child health",
+    "name": "Child health",
+    "slug": "child-health",
+    "description": "",
+    "count": 240,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 388,
+    "text": "Surgery and anaesthetics",
+    "name": "Surgery and anaesthetics",
+    "slug": "surgery-and-anaesthetics",
+    "description": "",
+    "count": 184,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 389,
+    "text": "Diabetes",
+    "name": "Diabetes",
+    "slug": "diabetes",
+    "description": "",
+    "count": 621,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 390,
+    "text": "Abdominal disorders",
+    "name": "Abdominal disorders",
+    "slug": "abdominal-disorders",
+    "description": "",
+    "count": 6128,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 391,
+    "text": "Anal fissure and proctalgia",
+    "name": "Anal fissure and proctalgia",
+    "slug": "anal-fissure-and-proctalgia",
+    "description": "",
+    "count": 1097,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 392,
+    "text": "Barretts oesophagus",
+    "name": "Barretts oesophagus",
+    "slug": "barretts-oesophagus",
+    "description": "",
+    "count": 274,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 393,
+    "text": "Bowel disorders",
+    "name": "Bowel disorders",
+    "slug": "bowel-disorders",
+    "description": "",
+    "count": 603,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 394,
+    "text": "Coeliac disease",
+    "name": "Coeliac disease",
+    "slug": "coeliac-disease",
+    "description": "",
+    "count": 464,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 395,
+    "text": "Colonoscopy",
+    "name": "Colonoscopy",
+    "slug": "colonoscopy",
+    "description": "",
+    "count": 516,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 396,
+    "text": "Crohns disease",
+    "name": "Crohns disease",
+    "slug": "crohns-disease",
+    "description": "",
+    "count": 689,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 397,
+    "text": "Diverticula",
+    "name": "Diverticula",
+    "slug": "diverticula",
+    "description": "",
+    "count": 1666,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 398,
+    "text": "Duodenal ulcer",
+    "name": "Duodenal ulcer",
+    "slug": "duodenal-ulcer",
+    "description": "",
+    "count": 258,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 399,
+    "text": "Gallbladder problems",
+    "name": "Gallbladder problems",
+    "slug": "gallbladder-problems",
+    "description": "",
+    "count": 3419,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 400,
+    "text": "Gilberts syndrome",
+    "name": "Gilberts syndrome",
+    "slug": "gilberts-syndrome",
+    "description": "",
+    "count": 173,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 401,
+    "text": "Haemorrhoids",
+    "name": "Haemorrhoids",
+    "slug": "haemorrhoids",
+    "description": "",
+    "count": 1707,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 402,
+    "text": "Hernia",
+    "name": "Hernia",
+    "slug": "hernia",
+    "description": "",
+    "count": 1039,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 403,
+    "text": "Irritable bowel syndrome",
+    "name": "Irritable bowel syndrome",
+    "slug": "irritable-bowel-syndrome",
+    "description": "",
+    "count": 3469,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 404,
+    "text": "Liver problems",
+    "name": "Liver problems",
+    "slug": "liver-problems",
+    "description": "",
+    "count": 835,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 405,
+    "text": "Oesophageal achalasia and spasm",
+    "name": "Oesophageal achalasia and spasm",
+    "slug": "oesophageal-achalasia-and-spasm",
+    "description": "",
+    "count": 587,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 406,
+    "text": "Pancreatitis and pancreatic disorders",
+    "name": "Pancreatitis and pancreatic disorders",
+    "slug": "pancreatitis-and-pancreatic-disorders",
+    "description": "",
+    "count": 946,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 407,
+    "text": "Proton pump inhibitors",
+    "name": "Proton pump inhibitors",
+    "slug": "proton-pump-inhibitors",
+    "description": "",
+    "count": 458,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 408,
+    "text": "Pruritus ani",
+    "name": "Pruritus ani",
+    "slug": "pruritus-ani",
+    "description": "",
+    "count": 161,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 409,
+    "text": "Reflux oesophagitis",
+    "name": "Reflux oesophagitis",
+    "slug": "reflux-oesophagitis",
+    "description": "",
+    "count": 3243,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 410,
+    "text": "Ulcerative colitis",
+    "name": "Ulcerative colitis",
+    "slug": "ulcerative-colitis",
+    "description": "",
+    "count": 786,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 411,
+    "text": "Upper gastrointestinal endoscopy",
+    "name": "Upper gastrointestinal endoscopy",
+    "slug": "upper-gastrointestinal-endoscopy",
+    "description": "",
+    "count": 371,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 412,
+    "text": "Cholesteatoma",
+    "name": "Cholesteatoma",
+    "slug": "cholesteatoma",
+    "description": "",
+    "count": 155,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 413,
+    "text": "Ear problems",
+    "name": "Ear problems",
+    "slug": "ear-problems",
+    "description": "",
+    "count": 1035,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 414,
+    "text": "Eustachian tube dysfunction",
+    "name": "Eustachian tube dysfunction",
+    "slug": "eustachian-tube-dysfunction",
+    "description": "",
+    "count": 396,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 415,
+    "text": "Globus sensation",
+    "name": "Globus sensation",
+    "slug": "globus-sensation",
+    "description": "",
+    "count": 284,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 416,
+    "text": "Menieres disease",
+    "name": "Menieres disease",
+    "slug": "menieres-disease",
+    "description": "",
+    "count": 1082,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 417,
+    "text": "Nasal problems",
+    "name": "Nasal problems",
+    "slug": "nasal-problems",
+    "description": "",
+    "count": 321,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 418,
+    "text": "Rhinitis",
+    "name": "Rhinitis",
+    "slug": "rhinitis",
+    "description": "",
+    "count": 143,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 419,
+    "text": "Sinusitis",
+    "name": "Sinusitis",
+    "slug": "sinusitis",
+    "description": "",
+    "count": 541,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 420,
+    "text": "Sore throat",
+    "name": "Sore throat",
+    "slug": "sore-throat",
+    "description": "",
+    "count": 644,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 421,
+    "text": "Tinnitus",
+    "name": "Tinnitus",
+    "slug": "tinnitus",
+    "description": "",
+    "count": 346,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 422,
+    "text": "Vertigo and dizziness",
+    "name": "Vertigo and dizziness",
+    "slug": "vertigo-and-dizziness",
+    "description": "",
+    "count": 2114,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 423,
+    "text": "Granulomatosis with polyangiitis",
+    "name": "Granulomatosis with polyangiitis",
+    "slug": "granulomatosis-with-polyangiitis",
+    "description": "",
+    "count": 140,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 424,
+    "text": "Blepharitis",
+    "name": "Blepharitis",
+    "slug": "blepharitis",
+    "description": "",
+    "count": 523,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 425,
+    "text": "Cataract",
+    "name": "Cataract",
+    "slug": "cataract",
+    "description": "",
+    "count": 2153,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 426,
+    "text": "Eye problems",
+    "name": "Eye problems",
+    "slug": "eye-problems",
+    "description": "",
+    "count": 1817,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 427,
+    "text": "Glaucoma",
+    "name": "Glaucoma",
+    "slug": "glaucoma",
+    "description": "",
+    "count": 225,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 428,
+    "text": "Scleritis and episcleritis",
+    "name": "Scleritis and episcleritis",
+    "slug": "scleritis-and-episcleritis",
+    "description": "",
+    "count": 43,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 429,
+    "text": "Foot and toe problems",
+    "name": "Foot and toe problems",
+    "slug": "foot-and-toe-problems",
+    "description": "",
+    "count": 848,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 430,
+    "text": "Alternative and complementary medicine",
+    "name": "Alternative and complementary medicine",
+    "slug": "alternative-and-complementary-medicine",
+    "description": "",
+    "count": 275,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 431,
+    "text": "Benefits and allowances",
+    "name": "Benefits and allowances",
+    "slug": "benefits-and-allowances",
+    "description": "",
+    "count": 1933,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 432,
+    "text": "Chatroom",
+    "name": "Chatroom",
+    "slug": "chatroom",
+    "description": "",
+    "count": 691,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 433,
+    "text": "Dietary - nutrition and exercise advice",
+    "name": "Dietary - nutrition and exercise advice",
+    "slug": "dietary-nutrition-and-exercise-advice",
+    "description": "",
+    "count": 496,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 434,
+    "text": "Orlistat",
+    "name": "Orlistat",
+    "slug": "orlistat",
+    "description": "",
+    "count": 2286,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 435,
+    "text": "Other conditions",
+    "name": "Other conditions",
+    "slug": "other-conditions",
+    "description": "",
+    "count": 2360,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 436,
+    "text": "Smoking",
+    "name": "Smoking",
+    "slug": "smoking",
+    "description": "",
+    "count": 126,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 437,
+    "text": "Weight loss and gain - unintentional",
+    "name": "Weight loss and gain - unintentional",
+    "slug": "weight-loss-and-gain-unintentional",
+    "description": "",
+    "count": 128,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 438,
+    "text": "Ace inhibitors",
+    "name": "Ace inhibitors",
+    "slug": "ace-inhibitors",
+    "description": "",
+    "count": 76,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 439,
+    "text": "Amlodipine",
+    "name": "Amlodipine",
+    "slug": "amlodipine",
+    "description": "",
+    "count": 482,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 440,
+    "text": "Angina",
+    "name": "Angina",
+    "slug": "angina",
+    "description": "",
+    "count": 229,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 441,
+    "text": "Angiotensin II receptor blockers",
+    "name": "Angiotensin II receptor blockers",
+    "slug": "angiotensin-ii-receptor-blockers",
+    "description": "",
+    "count": 123,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 442,
+    "text": "Aortic aneurysm and dissection",
+    "name": "Aortic aneurysm and dissection",
+    "slug": "aortic-aneurysm-and-dissection",
+    "description": "",
+    "count": 260,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 443,
+    "text": "Atrial fibrillation and flutter",
+    "name": "Atrial fibrillation and flutter",
+    "slug": "atrial-fibrillation-and-flutter",
+    "description": "",
+    "count": 835,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 444,
+    "text": "Autonomic dysfunction",
+    "name": "Autonomic dysfunction",
+    "slug": "autonomic-dysfunction",
+    "description": "",
+    "count": 191,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 445,
+    "text": "Beta-blockers - others",
+    "name": "Beta-blockers - others",
+    "slug": "beta-blockers-others",
+    "description": "",
+    "count": 173,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 446,
+    "text": "Bisoprolol",
+    "name": "Bisoprolol",
+    "slug": "bisoprolol",
+    "description": "",
+    "count": 409,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 447,
+    "text": "Cardiac arrhythmias",
+    "name": "Cardiac arrhythmias",
+    "slug": "cardiac-arrhythmias",
+    "description": "",
+    "count": 720,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 448,
+    "text": "Cardiovascular disorders",
+    "name": "Cardiovascular disorders",
+    "slug": "cardiovascular-disorders",
+    "description": "",
+    "count": 1469,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 449,
+    "text": "Hypertension",
+    "name": "Hypertension",
+    "slug": "hypertension",
+    "description": "",
+    "count": 1030,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 450,
+    "text": "Propranolol",
+    "name": "Propranolol",
+    "slug": "propranolol",
+    "description": "",
+    "count": 357,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 451,
+    "text": "Ramipril",
+    "name": "Ramipril",
+    "slug": "ramipril",
+    "description": "",
+    "count": 189,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 452,
+    "text": "Statins and other lipid-lowering medicines",
+    "name": "Statins and other lipid-lowering medicines",
+    "slug": "statins-and-other-lipid-lowering-medicines",
+    "description": "",
+    "count": 444,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 453,
+    "text": "Supraventricular tachycardia",
+    "name": "Supraventricular tachycardia",
+    "slug": "supraventricular-tachycardia",
+    "description": "",
+    "count": 662,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 454,
+    "text": "Varicose vein",
+    "name": "Varicose vein",
+    "slug": "varicose-vein",
+    "description": "",
+    "count": 138,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 455,
+    "text": "Vasculitis",
+    "name": "Vasculitis",
+    "slug": "vasculitis",
+    "description": "",
+    "count": 99,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 456,
+    "text": "Wolff-Parkinson-White syndrome",
+    "name": "Wolff-Parkinson-White syndrome",
+    "slug": "wolff-parkinson-white-syndrome",
+    "description": "",
+    "count": 57,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 457,
+    "text": "Adrenal disorders",
+    "name": "Adrenal disorders",
+    "slug": "adrenal-disorders",
+    "description": "",
+    "count": 294,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 458,
+    "text": "Carbimazole",
+    "name": "Carbimazole",
+    "slug": "carbimazole",
+    "description": "",
+    "count": 101,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 459,
+    "text": "Cushings syndrome",
+    "name": "Cushings syndrome",
+    "slug": "cushings-syndrome",
+    "description": "",
+    "count": 201,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 460,
+    "text": "Hyperthyroidism",
+    "name": "Hyperthyroidism",
+    "slug": "hyperthyroidism",
+    "description": "",
+    "count": 1426,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 461,
+    "text": "Hypothyroidism",
+    "name": "Hypothyroidism",
+    "slug": "hypothyroidism",
+    "description": "",
+    "count": 1928,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 462,
+    "text": "Levothyroxine sodium",
+    "name": "Levothyroxine sodium",
+    "slug": "levothyroxine-sodium",
+    "description": "",
+    "count": 137,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 463,
+    "text": "Thyroid and parathyroid disorders",
+    "name": "Thyroid and parathyroid disorders",
+    "slug": "thyroid-and-parathyroid-disorders",
+    "description": "",
+    "count": 427,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 464,
+    "text": "Antibiotics",
+    "name": "Antibiotics",
+    "slug": "antibiotics",
+    "description": "",
+    "count": 211,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 465,
+    "text": "Candida - genital",
+    "name": "Candida - genital",
+    "slug": "candida-genital",
+    "description": "",
+    "count": 1052,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 466,
+    "text": "Cellulitis",
+    "name": "Cellulitis",
+    "slug": "cellulitis",
+    "description": "",
+    "count": 147,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 467,
+    "text": "Fluoroquinolone antibiotics",
+    "name": "Fluoroquinolone antibiotics",
+    "slug": "fluoroquinolone-antibiotics",
+    "description": "",
+    "count": 102,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 468,
+    "text": "Folliculitis",
+    "name": "Folliculitis",
+    "slug": "folliculitis",
+    "description": "",
+    "count": 114,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 469,
+    "text": "Fungal and yeast infections",
+    "name": "Fungal and yeast infections",
+    "slug": "fungal-and-yeast-infections",
+    "description": "",
+    "count": 412,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 470,
+    "text": "Genital herpes simplex",
+    "name": "Genital herpes simplex",
+    "slug": "genital-herpes-simplex",
+    "description": "",
+    "count": 13309,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 471,
+    "text": "Hand foot and mouth disease",
+    "name": "Hand foot and mouth disease",
+    "slug": "hand-foot-and-mouth-disease",
+    "description": "",
+    "count": 36,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 472,
+    "text": "Hepatitis",
+    "name": "Hepatitis",
+    "slug": "hepatitis",
+    "description": "",
+    "count": 91,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 473,
+    "text": "Infectious disease",
+    "name": "Infectious disease",
+    "slug": "infectious-disease",
+    "description": "",
+    "count": 383,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 474,
+    "text": "Infectious mononucleosis",
+    "name": "Infectious mononucleosis",
+    "slug": "infectious-mononucleosis",
+    "description": "",
+    "count": 1208,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 475,
+    "text": "Influenza",
+    "name": "Influenza",
+    "slug": "influenza",
+    "description": "",
+    "count": 61,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 476,
+    "text": "Lyme disease",
+    "name": "Lyme disease",
+    "slug": "lyme-disease",
+    "description": "",
+    "count": 320,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 477,
+    "text": "Metronidazole",
+    "name": "Metronidazole",
+    "slug": "metronidazole",
+    "description": "",
+    "count": 42,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 478,
+    "text": "Scabies",
+    "name": "Scabies",
+    "slug": "scabies",
+    "description": "",
+    "count": 211,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 479,
+    "text": "Shingles",
+    "name": "Shingles",
+    "slug": "shingles",
+    "description": "",
+    "count": 912,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 480,
+    "text": "Threadworm",
+    "name": "Threadworm",
+    "slug": "threadworm",
+    "description": "",
+    "count": 173,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 481,
+    "text": "Cystitis",
+    "name": "Cystitis",
+    "slug": "cystitis",
+    "description": "",
+    "count": 205,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 482,
+    "text": "Cystoscopy",
+    "name": "Cystoscopy",
+    "slug": "cystoscopy",
+    "description": "",
+    "count": 149,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 483,
+    "text": "Kidney failure and CKD",
+    "name": "Kidney failure and CKD",
+    "slug": "kidney-failure-and-ckd",
+    "description": "",
+    "count": 707,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 484,
+    "text": "Kidney problems",
+    "name": "Kidney problems",
+    "slug": "kidney-problems",
+    "description": "",
+    "count": 400,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 485,
+    "text": "Kidney stones",
+    "name": "Kidney stones",
+    "slug": "kidney-stones",
+    "description": "",
+    "count": 463,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 486,
+    "text": "Urethral disorders",
+    "name": "Urethral disorders",
+    "slug": "urethral-disorders",
+    "description": "",
+    "count": 315,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 487,
+    "text": "Urinary incontinence",
+    "name": "Urinary incontinence",
+    "slug": "urinary-incontinence",
+    "description": "",
+    "count": 269,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 488,
+    "text": "Urinary symptoms and problems",
+    "name": "Urinary symptoms and problems",
+    "slug": "urinary-symptoms-and-problems",
+    "description": "",
+    "count": 865,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 489,
+    "text": "Urinary tract infection",
+    "name": "Urinary tract infection",
+    "slug": "urinary-tract-infection",
+    "description": "",
+    "count": 708,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 490,
+    "text": "Hydrocele",
+    "name": "Hydrocele",
+    "slug": "hydrocele",
+    "description": "",
+    "count": 248,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 491,
+    "text": "Penis disorders",
+    "name": "Penis disorders",
+    "slug": "penis-disorders",
+    "description": "",
+    "count": 10701,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 492,
+    "text": "Prostate problems",
+    "name": "Prostate problems",
+    "slug": "prostate-problems",
+    "description": "",
+    "count": 3378,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 493,
+    "text": "Sex chromosome aneuploidies",
+    "name": "Sex chromosome aneuploidies",
+    "slug": "sex-chromosome-aneuploidies",
+    "description": "",
+    "count": 77,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 494,
+    "text": "Testicular pain and disorders",
+    "name": "Testicular pain and disorders",
+    "slug": "testicular-pain-and-disorders",
+    "description": "",
+    "count": 503,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 495,
+    "text": "Alcohol consumption",
+    "name": "Alcohol consumption",
+    "slug": "alcohol-consumption",
+    "description": "",
+    "count": 1856,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 496,
+    "text": "Amitriptyline",
+    "name": "Amitriptyline",
+    "slug": "amitriptyline",
+    "description": "",
+    "count": 558,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 497,
+    "text": "Anxiety disorders",
+    "name": "Anxiety disorders",
+    "slug": "anxiety-disorders",
+    "description": "",
+    "count": 27556,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 498,
+    "text": "Bipolar affective disorder",
+    "name": "Bipolar affective disorder",
+    "slug": "bipolar-affective-disorder",
+    "description": "",
+    "count": 478,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 499,
+    "text": "Depression",
+    "name": "Depression",
+    "slug": "depression",
+    "description": "",
+    "count": 7034,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 500,
+    "text": "Duloxetine",
+    "name": "Duloxetine",
+    "slug": "duloxetine",
+    "description": "",
+    "count": 182,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 501,
+    "text": "Eating disorders",
+    "name": "Eating disorders",
+    "slug": "eating-disorders",
+    "description": "",
+    "count": 237,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 502,
+    "text": "Fluoxetine",
+    "name": "Fluoxetine",
+    "slug": "fluoxetine",
+    "description": "",
+    "count": 2497,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 503,
+    "text": "Mental health",
+    "name": "Mental health",
+    "slug": "mental-health",
+    "description": "",
+    "count": 1764,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 504,
+    "text": "PTSD - post traumatic stress disorder",
+    "name": "PTSD - post traumatic stress disorder",
+    "slug": "ptsd-post-traumatic-stress-disorder",
+    "description": "",
+    "count": 356,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 505,
+    "text": "Sertraline",
+    "name": "Sertraline",
+    "slug": "sertraline",
+    "description": "",
+    "count": 5832,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 506,
+    "text": "Substance misuse",
+    "name": "Substance misuse",
+    "slug": "substance-misuse",
+    "description": "",
+    "count": 195,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 507,
+    "text": "Trazodone",
+    "name": "Trazodone",
+    "slug": "trazodone",
+    "description": "",
+    "count": 82,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 508,
+    "text": "Venlafaxine",
+    "name": "Venlafaxine",
+    "slug": "venlafaxine",
+    "description": "",
+    "count": 1422,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 509,
+    "text": "Dental abscess",
+    "name": "Dental abscess",
+    "slug": "dental-abscess",
+    "description": "",
+    "count": 195,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 510,
+    "text": "Herpes - non genital",
+    "name": "Herpes - non genital",
+    "slug": "herpes-non-genital",
+    "description": "",
+    "count": 422,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 511,
+    "text": "Oral and dental problems",
+    "name": "Oral and dental problems",
+    "slug": "oral-and-dental-problems",
+    "description": "",
+    "count": 1613,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 512,
+    "text": "Salivary gland disorders",
+    "name": "Salivary gland disorders",
+    "slug": "salivary-gland-disorders",
+    "description": "",
+    "count": 170,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 513,
+    "text": "Pregnancy and genetic disorders",
+    "name": "Pregnancy and genetic disorders",
+    "slug": "pregnancy-and-genetic-disorders",
+    "description": "",
+    "count": 506,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 514,
+    "text": "Elderly care",
+    "name": "Elderly care",
+    "slug": "elderly-care",
+    "description": "",
+    "count": 46,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 515,
+    "text": "Contraception",
+    "name": "Contraception",
+    "slug": "contraception",
+    "description": "",
+    "count": 468,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 516,
+    "text": "Sexual health",
+    "name": "Sexual health",
+    "slug": "sexual-health",
+    "description": "",
+    "count": 17087,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 517,
+    "text": "Vasectomy",
+    "name": "Vasectomy",
+    "slug": "vasectomy",
+    "description": "",
+    "count": 87,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 518,
+    "text": "Constipation",
+    "name": "Constipation",
+    "slug": "constipation",
+    "description": "",
+    "count": 278,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 519,
+    "text": "Lymphadenopathy",
+    "name": "Lymphadenopathy",
+    "slug": "lymphadenopathy",
+    "description": "",
+    "count": 256,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 520,
+    "text": "Neck pain",
+    "name": "Neck pain",
+    "slug": "neck-pain",
+    "description": "",
+    "count": 244,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 521,
+    "text": "Pain and pain relief",
+    "name": "Pain and pain relief",
+    "slug": "pain-and-pain-relief",
+    "description": "",
+    "count": 519,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 522,
+    "text": "Pelvic pain and disorders",
+    "name": "Pelvic pain and disorders",
+    "slug": "pelvic-pain-and-disorders",
+    "description": "",
+    "count": 229,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 523,
+    "text": "Sleep problems",
+    "name": "Sleep problems",
+    "slug": "sleep-problems",
+    "description": "",
+    "count": 1260,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 524,
+    "text": "Sweating",
+    "name": "Sweating",
+    "slug": "sweating",
+    "description": "",
+    "count": 113,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 525,
+    "text": "Weight loss - intentional",
+    "name": "Weight loss - intentional",
+    "slug": "weight-loss-intentional",
+    "description": "",
+    "count": 497,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 526,
+    "text": "Abscess - non-dental",
+    "name": "Abscess - non-dental",
+    "slug": "abscess-non-dental",
+    "description": "",
+    "count": 267,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 527,
+    "text": "Acne",
+    "name": "Acne",
+    "slug": "acne",
+    "description": "",
+    "count": 255,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 528,
+    "text": "Alopecia and hair disorders",
+    "name": "Alopecia and hair disorders",
+    "slug": "alopecia-and-hair-disorders",
+    "description": "",
+    "count": 242,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 529,
+    "text": "Dermatitis and eczema",
+    "name": "Dermatitis and eczema",
+    "slug": "dermatitis-and-eczema",
+    "description": "",
+    "count": 423,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 530,
+    "text": "Dermatology",
+    "name": "Dermatology",
+    "slug": "dermatology",
+    "description": "",
+    "count": 2550,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 531,
+    "text": "Granuloma annulare",
+    "name": "Granuloma annulare",
+    "slug": "granuloma-annulare",
+    "description": "",
+    "count": 203,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 532,
+    "text": "Hidradenitis suppurativa",
+    "name": "Hidradenitis suppurativa",
+    "slug": "hidradenitis-suppurativa",
+    "description": "",
+    "count": 776,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 533,
+    "text": "Lichen planus",
+    "name": "Lichen planus",
+    "slug": "lichen-planus",
+    "description": "",
+    "count": 471,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 534,
+    "text": "Mastocytosis and mast cell disorders",
+    "name": "Mastocytosis and mast cell disorders",
+    "slug": "mastocytosis-and-mast-cell-disorders",
+    "description": "",
+    "count": 56,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 535,
+    "text": "Molluscum contagiosum",
+    "name": "Molluscum contagiosum",
+    "slug": "molluscum-contagiosum",
+    "description": "",
+    "count": 201,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 536,
+    "text": "Nail disorders",
+    "name": "Nail disorders",
+    "slug": "nail-disorders",
+    "description": "",
+    "count": 247,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 537,
+    "text": "Pilonidal sinus",
+    "name": "Pilonidal sinus",
+    "slug": "pilonidal-sinus",
+    "description": "",
+    "count": 192,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 538,
+    "text": "Pityriasis rosea",
+    "name": "Pityriasis rosea",
+    "slug": "pityriasis-rosea",
+    "description": "",
+    "count": 387,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 539,
+    "text": "Psoriasis and psoriatic arthritis",
+    "name": "Psoriasis and psoriatic arthritis",
+    "slug": "psoriasis-and-psoriatic-arthritis",
+    "description": "",
+    "count": 362,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 540,
+    "text": "Rosacea",
+    "name": "Rosacea",
+    "slug": "rosacea",
+    "description": "",
+    "count": 84,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 541,
+    "text": "Urticarial rash",
+    "name": "Urticarial rash",
+    "slug": "urticarial-rash",
+    "description": "",
+    "count": 331,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 542,
+    "text": "Vitiligo",
+    "name": "Vitiligo",
+    "slug": "vitiligo",
+    "description": "",
+    "count": 69,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 543,
+    "text": "Warts and verrucas",
+    "name": "Warts and verrucas",
+    "slug": "warts-and-verrucas",
+    "description": "",
+    "count": 172,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 544,
+    "text": "Blood test general",
+    "name": "Blood test general",
+    "slug": "blood-test-general",
+    "description": "",
+    "count": 455,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 545,
+    "text": "Investigations and procedures",
+    "name": "Investigations and procedures",
+    "slug": "investigations-and-procedures",
+    "description": "",
+    "count": 180,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 546,
+    "text": "Steroids",
+    "name": "Steroids",
+    "slug": "steroids",
+    "description": "",
+    "count": 222,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 547,
+    "text": "Vaccinations and immunisations",
+    "name": "Vaccinations and immunisations",
+    "slug": "vaccinations-and-immunisations",
+    "description": "",
+    "count": 61,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 548,
+    "text": "Atrophic vaginitis",
+    "name": "Atrophic vaginitis",
+    "slug": "atrophic-vaginitis",
+    "description": "",
+    "count": 666,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 549,
+    "text": "Bacterial vaginosis",
+    "name": "Bacterial vaginosis",
+    "slug": "bacterial-vaginosis",
+    "description": "",
+    "count": 1338,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 550,
+    "text": "Bartholins cyst",
+    "name": "Bartholins cyst",
+    "slug": "bartholins-cyst",
+    "description": "",
+    "count": 700,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 551,
+    "text": "Breast pain - lumps and disorders",
+    "name": "Breast pain - lumps and disorders",
+    "slug": "breast-pain-lumps-and-disorders",
+    "description": "",
+    "count": 384,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 552,
+    "text": "Cervical smear and disorders",
+    "name": "Cervical smear and disorders",
+    "slug": "cervical-smear-and-disorders",
+    "description": "",
+    "count": 236,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 553,
+    "text": "Endometriosis",
+    "name": "Endometriosis",
+    "slug": "endometriosis",
+    "description": "",
+    "count": 507,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 554,
+    "text": "Genitourinary prolapse",
+    "name": "Genitourinary prolapse",
+    "slug": "genitourinary-prolapse",
+    "description": "",
+    "count": 2358,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 555,
+    "text": "HRT - hormone replacement therapy",
+    "name": "HRT - hormone replacement therapy",
+    "slug": "hrt-hormone-replacement-therapy",
+    "description": "",
+    "count": 767,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 556,
+    "text": "Lichen sclerosus",
+    "name": "Lichen sclerosus",
+    "slug": "lichen-sclerosus",
+    "description": "",
+    "count": 2913,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 557,
+    "text": "Menopause",
+    "name": "Menopause",
+    "slug": "menopause",
+    "description": "",
+    "count": 11663,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 558,
+    "text": "Menstrual cycle and disorders",
+    "name": "Menstrual cycle and disorders",
+    "slug": "menstrual-cycle-and-disorders",
+    "description": "",
+    "count": 1057,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 559,
+    "text": "Ovarian cyst",
+    "name": "Ovarian cyst",
+    "slug": "ovarian-cyst",
+    "description": "",
+    "count": 1709,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 560,
+    "text": "Polycystic ovary syndrome",
+    "name": "Polycystic ovary syndrome",
+    "slug": "polycystic-ovary-syndrome",
+    "description": "",
+    "count": 501,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 561,
+    "text": "Uterine fibroids",
+    "name": "Uterine fibroids",
+    "slug": "uterine-fibroids",
+    "description": "",
+    "count": 1367,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 562,
+    "text": "Vulval problems",
+    "name": "Vulval problems",
+    "slug": "vulval-problems",
+    "description": "",
+    "count": 1821,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 565,
+    "text": "Lumbar puncture",
+    "name": "Lumbar puncture",
+    "slug": "lumbar-puncture",
+    "description": "",
+    "count": 81,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 567,
+    "text": "Travel advice",
+    "name": "Travel advice",
+    "slug": "travel-advice",
+    "description": "",
+    "count": 1,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 568,
+    "text": "Coronavirus",
+    "name": "Coronavirus",
+    "slug": "coronavirus",
+    "description": "",
+    "count": 573,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 1592,
+    "text": "Appendicitis",
+    "name": "Appendicitis",
+    "slug": "appendicitis",
+    "description": "",
+    "count": 80,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 1593,
+    "text": "Swelling",
+    "name": "Swelling",
+    "slug": "swelling",
+    "description": "",
+    "count": 6,
+    "pm_only": false,
+    "target_tag": null
+  },
+  {
+    "id": 1597,
+    "text": "Hysterectomy",
+    "name": "Hysterectomy",
+    "slug": "hysterectomy",
+    "description": "",
+    "count": 1288,
+    "pm_only": false,
+    "target_tag": null
+  }
+]
