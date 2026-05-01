@@ -1,0 +1,146 @@
+{
+  "acne": {
+    "board_id": 5,
+    "board_slug": "acne",
+    "board_name": "Acne",
+    "medical_category": "Skin & Beauty"
+  },
+  "alzheimer": {
+    "board_id": 13,
+    "board_slug": "alzheimers-disease-dementia",
+    "board_name": "Alzheimer's Disease & Dementia",
+    "medical_category": "Brain & Nervous System"
+  },
+  "angina": {
+    "board_id": 65,
+    "board_slug": "heart-disorders",
+    "board_name": "Heart Disorders",
+    "medical_category": "Heart & Vascular"
+  },
+  "appendicitis": {
+    "board_id": 46,
+    "board_slug": "digestive-disorders",
+    "board_name": "Digestive Disorders",
+    "medical_category": "Digestive & Bowel"
+  },
+  "arthritis": {
+    "board_id": 15,
+    "board_slug": "arthritis",
+    "board_name": "Arthritis",
+    "medical_category": "Bone & Joint"
+  },
+  "asthma": {
+    "board_id": 16,
+    "board_slug": "asthma",
+    "board_name": "Asthma",
+    "medical_category": "Lung & Respiratory"
+  },
+  "b12 deficiency": {
+    "board_id": 14,
+    "board_slug": "anemia",
+    "board_name": "Anemia",
+    "medical_category": "Blood & Immune"
+  },
+  "cancer": {
+    "board_id": 22,
+    "board_slug": "cancer",
+    "board_name": "Cancer",
+    "medical_category": "Cancer"
+  },
+  "cataract": {
+    "board_id": 54,
+    "board_slug": "eye-vision",
+    "board_name": "Eye & Vision",
+    "medical_category": "Eye & Vision"
+  },
+  "conjunctivitis": {
+    "board_id": 54,
+    "board_slug": "eye-vision",
+    "board_name": "Eye & Vision",
+    "medical_category": "Eye & Vision"
+  },
+  "cough": {
+    "board_id": 80,
+    "board_slug": "lung-respiratory-disorders-copd",
+    "board_name": "Lung & Respiratory Disorders / COPD",
+    "medical_category": "Lung & Respiratory"
+  },
+  "dengue fever": {
+    "board_id": 74,
+    "board_slug": "infectious-diseases",
+    "board_name": "Infectious Diseases",
+    "medical_category": "Infectious Diseases"
+  },
+  "diabetes": {
+    "board_id": 45,
+    "board_slug": "diabetes",
+    "board_name": "Diabetes",
+    "medical_category": "Endocrine"
+  },
+  "headache": {
+    "board_id": 62,
+    "board_slug": "headaches-migraines",
+    "board_name": "Headaches & Migraines",
+    "medical_category": "Brain & Nervous System"
+  },
+  "heart attack": {
+    "board_id": 65,
+    "board_slug": "heart-disorders",
+    "board_name": "Heart Disorders",
+    "medical_category": "Heart & Vascular"
+  },
+  "hepatitis": {
+    "board_id": 66,
+    "board_slug": "hepatitis",
+    "board_name": "Hepatitis",
+    "medical_category": "Liver & Pancreas"
+  },
+  "hernia": {
+    "board_id": 46,
+    "board_slug": "digestive-disorders",
+    "board_name": "Digestive Disorders",
+    "medical_category": "Digestive & Bowel"
+  },
+  "hypertension": {
+    "board_id": 61,
+    "board_slug": "high-low-blood-pressure",
+    "board_name": "High & Low Blood Pressure",
+    "medical_category": "Heart & Vascular"
+  },
+  "otitis media": {
+    "board_id": 164,
+    "board_slug": "ear-nose-throat",
+    "board_name": "Ear, Nose & Throat",
+    "medical_category": "Ear, Nose & Throat"
+  },
+  "piles": {
+    "board_id": 20,
+    "board_slug": "bowel-disorders",
+    "board_name": "Bowel Disorders",
+    "medical_category": "Digestive & Bowel"
+  },
+  "renal failure": {
+    "board_id": 78,
+    "board_slug": "kidney-disorders",
+    "board_name": "Kidney Disorders",
+    "medical_category": "Kidney & Urinary"
+  },
+  "stroke & tia": {
+    "board_id": 119,
+    "board_slug": "stroke",
+    "board_name": "Stroke",
+    "medical_category": "Brain & Nervous System"
+  },
+  "urinary tract infection": {
+    "board_id": 124,
+    "board_slug": "urinary-disorders",
+    "board_name": "Urinary Disorders",
+    "medical_category": "Kidney & Urinary"
+  },
+  "urticarial rash": {
+    "board_id": 138,
+    "board_slug": "skin-problems",
+    "board_name": "Skin Problems",
+    "medical_category": "Skin & Beauty"
+  }
+}

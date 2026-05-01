@@ -1,0 +1,7 @@
+# Healthboards scraper dependencies
+# Dependencies for the healthboards scraper pipeline
+patchright>=1.58.0
+beautifulsoup4>=4.12.0
+
+# Setup: after installing, run:
+#   patchright install chromium

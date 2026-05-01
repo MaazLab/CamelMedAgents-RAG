@@ -4,4 +4,8 @@ __pycache__/
 *.pyd
 .env
 .github/
+scrapers/data/
+scrapers/qdrant_server/
+scrapers/logs/
+*.lock
 **/openspec/
