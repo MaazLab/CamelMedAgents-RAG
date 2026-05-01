@@ -1,0 +1,122 @@
+{
+  "acne": {
+    "tag_ids": [527],
+    "tag_slugs": ["acne"],
+    "category_id": 29,
+    "category_slug": "skin-nail-and-hair-health"
+  },
+  "angina": {
+    "tag_ids": [440],
+    "tag_slugs": ["angina"],
+    "category_id": 18,
+    "category_slug": "heart-health-and-blood-vessels"
+  },
+  "appendicitis": {
+    "tag_ids": [1592],
+    "tag_slugs": ["appendicitis"],
+    "category_id": 16,
+    "category_slug": "digestive-health"
+  },
+  "arthritis": {
+    "tag_ids": [300],
+    "tag_slugs": ["arthritis"],
+    "category_id": 2,
+    "category_slug": "bones-joints-and-muscles"
+  },
+  "b12-deficiency": {
+    "tag_ids": [291],
+    "tag_slugs": ["pernicious-anaemia"],
+    "category_id": 4,
+    "category_slug": "allergies-blood-and-immune-system"
+  },
+  "cancer": {
+    "tag_ids": [375],
+    "tag_slugs": ["cancer"],
+    "category_id": 7,
+    "category_slug": "cancer"
+  },
+  "cataract": {
+    "tag_ids": [425],
+    "tag_slugs": ["cataract"],
+    "category_id": 13,
+    "category_slug": "eye-care"
+  },
+  "conjunctivitis": {
+    "tag_ids": [426],
+    "tag_slugs": ["eye-problems"],
+    "category_id": 13,
+    "category_slug": "eye-care"
+  },
+  "diabetes": {
+    "tag_ids": [389],
+    "tag_slugs": ["diabetes"],
+    "category_id": 11,
+    "category_slug": "diabetes"
+  },
+  "headache": {
+    "tag_ids": [349],
+    "tag_slugs": ["headache"],
+    "category_id": 6,
+    "category_slug": "brain-and-nerves"
+  },
+  "heart attack": {
+    "tag_ids": [448],
+    "tag_slugs": ["cardiovascular-disorders"],
+    "category_id": 18,
+    "category_slug": "heart-health-and-blood-vessels"
+  },
+  "hepatitis": {
+    "tag_ids": [472],
+    "tag_slugs": ["hepatitis"],
+    "category_id": 20,
+    "category_slug": "infections"
+  },
+  "hernia": {
+    "tag_ids": [402],
+    "tag_slugs": ["hernia"],
+    "category_id": 16,
+    "category_slug": "digestive-health"
+  },
+  "hypertension": {
+    "tag_ids": [449],
+    "tag_slugs": ["hypertension"],
+    "category_id": 18,
+    "category_slug": "heart-health-and-blood-vessels"
+  },
+  "otitis-media": {
+    "tag_ids": [413],
+    "tag_slugs": ["ear-problems"],
+    "category_id": 12,
+    "category_slug": "ears-nose-and-throat"
+  },
+  "piles": {
+    "tag_ids": [401],
+    "tag_slugs": ["haemorrhoids"],
+    "category_id": 16,
+    "category_slug": "digestive-health"
+  },
+  "renal-failure": {
+    "tag_ids": [483],
+    "tag_slugs": ["kidney-failure-and-ckd"],
+    "category_id": 15,
+    "category_slug": "kidney-and-urinary-tract"
+  },
+  "stroke-and-tia": {
+    "tag_ids": [295],
+    "tag_slugs": ["stroke-and-tia"],
+    "category_id": 4,
+    "category_slug": "allergies-blood-and-immune-system"
+  },
+  "urinary-tract-infection": {
+    "tag_ids": [489],
+    "tag_slugs": ["urinary-tract-infection"],
+    "category_id": 15,
+    "category_slug": "kidney-and-urinary-tract"
+  },
+  "urticarial-rash": {
+    "tag_ids": [541],
+    "tag_slugs": ["urticarial-rash"],
+    "category_id": 29,
+    "category_slug": "skin-nail-and-hair-health"
+  }
+}
