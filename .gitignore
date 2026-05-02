@@ -7,4 +7,3 @@ __pycache__/
 *.lock
 # LibreOffice temporary lock files
 .~lock.*
-**/openspec/
